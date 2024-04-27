@@ -1,4 +1,7 @@
-### Hi there 👋
+### Uday Empire says Hello 👋
+
+This is my first Github Repository
+Author- Uday Empire
 
 <!--
 **udayempire/udayempire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
