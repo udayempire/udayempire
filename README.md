@@ -2,7 +2,7 @@
 
 <h1>This is my first Github Repository</h1>
 <br>
-Author- Uday Empire
+Author- Uday Kumar
 
 <!--
 **udayempire/udayempire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
