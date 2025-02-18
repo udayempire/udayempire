@@ -1,4 +1,4 @@
- <img src="https://komarev.com/ghpvc/?username=udayempire" alt="udayempire" /> 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=udayempire" alt="udayempire")
 - 👋 Hi, I’m @udayempire
 - 👀 I’m interested in Web 3.0
 - 🌱 I’m currently learning Full Stack Web Dev and C++ .
