@@ -1,3 +1,4 @@
+             ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 - 👋 Hi, I’m @udayempire
 - 👀 I’m interested in Web 3.0
 - 🌱 I’m currently learning Full Stack Web Dev and C++ .
