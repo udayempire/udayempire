@@ -2,7 +2,6 @@
 
 ### About
 - 👋 Hi, I'm @udayempire
-- Software Engineer passionate about building products.
 - Currently into in AI, LLMs, Automation, Devops & Full Stack Development.
 - Open to collaborating on interesting projects and open source.
 - working with clients & teams from past 2 years.
